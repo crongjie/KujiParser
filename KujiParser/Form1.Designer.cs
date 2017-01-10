@@ -53,6 +53,7 @@
             this.tb_output.MaxLength = 3276700;
             this.tb_output.Multiline = true;
             this.tb_output.Name = "tb_output";
+            this.tb_output.ScrollBars = System.Windows.Forms.ScrollBars.Both;
             this.tb_output.Size = new System.Drawing.Size(1028, 430);
             this.tb_output.TabIndex = 1;
             // 
